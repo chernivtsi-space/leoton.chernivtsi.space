@@ -19,7 +19,18 @@ Leoton Hotel — готель у Чернівцях. Односторінков�
 - Безкоштовний трансфер з аеропорту
 
 ## Check-in / check-out
-не встановлено
+Заїзд з 14:00; Виїзд до 12:00
+
+## Rooms (Booking.com room table; T&S and Панський Двір 2 from the official site)
+- Двомісний номер / Твін економ-класу
+- Стандартний двомісний номер
+- Покращений двомісний номер
+- Люкс
+
+## House rules (Booking.com)
+- Чи можна з дітьми? Так, діти будь-якого віку. Дитячих ліжечок і додаткових ліжок немає, тож обирайте номер на всіх гостей.
+- Чи можна з домашньою твариною? Так, за попереднім запитом. Може стягуватися доплата.
+- Як оплатити проживання? Готівкою. Після бронювання представник готелю зв’яжеться щодо передоплати — її потрібно внести протягом 5 днів.
 
 ## Reviews
 Booking.com 8.3/10 (145), Google 3.8/5 (147). Знімок на 30.09.2026, платформи окремо, без aggregateRating.
@@ -29,6 +40,9 @@ Booking.com 8.3/10 (145), Google 3.8/5 (147). Знімок на 30.09.2026, пл
 - Booking.com: https://www.booking.com/hotel/ua/leoton.html
 - Google Maps: https://maps.google.com/?cid=10247185743084967943
 - Address: вул. Чкалова, 30В, Чернівці
+
+## Sources
+Booking.com listing text (description, rooms, breakfast, house rules; guest reviews ignored), captured 30.09.2026, plus the official site where there is one. Verbatim quotes: `facts.json` in the build scratchpad.
 
 ## Not published
 Час заїзду/виїзду, кількість номерів, зірковість (Google Hotels показує 3★ без офіційного джерела), email, сайт, Instagram, графік і умови трансферу, «біля аеропорту». Телефон — з Google Hotels (інший довідник мав інший номер).
