@@ -34,7 +34,7 @@ Booking.com 8.3/10 (145), Google 3.8/5 (147). Знімок на 30.09.2026, пл
 Час заїзду/виїзду, кількість номерів, зірковість (Google Hotels показує 3★ без офіційного джерела), email, сайт, Instagram, графік і умови трансферу, «біля аеропорту». Телефон — з Google Hotels (інший довідник мав інший номер).
 
 ## Forms
-HotelOS (`kp-leoton`): `stay-request` (проживання). Документ `hotels/kp-leoton` у Firestore треба створити вручну, інакше правила відхилять заявки.
+HotelOS (`ch-leoton`): `stay-request` (проживання). Документ `hotels/ch-leoton` у Firestore треба створити вручну, інакше правила відхилять заявки.
 
 ## SEO
 Title і description з маніфесту, canonical, Open Graph, `geo.*`, JSON-LD `Hotel` лише з підтвердженими полями (без numberOfRooms, starRating, aggregateRating), `robots.txt`, `sitemap.xml`, `404.html`.
