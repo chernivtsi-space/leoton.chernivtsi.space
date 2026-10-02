@@ -42,10 +42,20 @@ Booking.com 8.3/10 (145), Google 3.8/5 (147). Знімок на 30.09.2026, пл
 - Address: вул. Чкалова, 30В, Чернівці
 
 ## Sources
-Booking.com listing text (description, rooms, breakfast, house rules; guest reviews ignored), captured 30.09.2026, plus the official site where there is one. Verbatim quotes: `facts.json` in the build scratchpad.
+Booking.com listing text (description, rooms, breakfast, house rules; guest reviews ignored), captured 30.09.2026, plus the official site where there is one. Verbatim quotes: `shared/build/facts.json` у робочому просторі (поза репозиторієм сайту).
+
+## Property-specific sections
+- `#transfer` Безкоштовний трансфер
 
 ## Not published
-Час заїзду/виїзду, кількість номерів, зірковість (Google Hotels показує 3★ без офіційного джерела), email, сайт, Instagram, графік і умови трансферу, «біля аеропорту». Телефон — з Google Hotels (інший довідник мав інший номер).
+Кількість номерів, зірковість (Google Hotels показує 3★ без офіційного джерела), email, сайт, Instagram, графік і умови трансферу, «біля аеропорту», відстань до станції Чернівці-Південна (Booking дає і 700 м, і 1,2 км). Телефон — з Google Hotels.
+
+## Content TODO (не показується на сторінці)
+- [ ] TODO: уточнити графік і умови безкоштовного трансферу (з якого аеропорту/вокзалу, години, обмеження)
+- [ ] TODO: уточнити ліжка: у Booking усі 4 категорії мають «1 широке двоспальне ліжко», навіть «Твін»
+- [ ] TODO: підтвердити телефон +380 66 363 3201
+- [ ] TODO: отримати власні фото закладу (фасад, рецепція, номери, ванні) і погодити їх використання — потім додати галерею
+- [ ] TODO: перевірити ціни й наявність через сам готель; на сторінці цін немає
 
 ## Forms
 HotelOS (`ch-leoton`): `stay-request` (проживання). Документ `hotels/ch-leoton` у Firestore треба створити вручну, інакше правила відхилять заявки.
